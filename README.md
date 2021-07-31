@@ -1,1 +1,1 @@
-# Fastag-Using-OOPS-C-
+To simulate the working of National Payments Corporation of India's (NPCI) National Electronic Toll Collection (NETC) program designed to meet electronic tolling requirements of Indian Market. NETC enables a device known as FASTag as a payment mode on any toll plaza. FASTag is attached on the windscreen of a vehicle and employs Radio frequency Identification technology (RFID) for making toll payments directly from prepaid or savings account linked to it.
